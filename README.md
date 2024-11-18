@@ -19,6 +19,14 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+
+![image](https://github.com/user-attachments/assets/178c5243-11ec-4586-83d7-ebdf54fa0b23)
+
+![image](https://github.com/user-attachments/assets/dde19d2c-58c3-4e10-9e14-68c6193b1c7e)
+
+
+ 
+## Program
 ```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
@@ -45,11 +53,6 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("---------------------------------------------------------------")
 ```
-
- 
-## Program
-![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
-
 ## Output :
 
 ![image](https://github.com/user-attachments/assets/2c73fad3-43a2-429f-af25-5b5214978b6b)
